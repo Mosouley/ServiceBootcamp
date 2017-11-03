@@ -1,0 +1,9 @@
+com\bootcampWS\enums\EtatProgramme.class
+com\bootcampWS\jpa\BaseRepository.class
+com\bootcampWS\entities\Programmes.class
+com\bootcampWS\rest\controllers\ProgrammeRessource.class
+com\bootcampWS\rest\application\ApplicationConfig.class
+com\bootcampWS\entities\Programme.class
+com\bootcampWS\enums\PhasesProgramme.class
+com\bootcampWS\jpa\ProgrammeRepository.class
+com\bootcampWS\rest\application\MyServer.class
